@@ -1,1 +1,3 @@
-# Tinycar
+Voici le projet Tinycar:
+inycar est un projet que j’ai créé en Java. Il s’agit d’une application de gestion d’options pour véhicules, offrant à l’utilisateur une interface interactive.
+Dans cette application, l’utilisateur peut choisir parmi une liste d’accessoires, visualiser les détails tels que le prix hors taxes (HT), le prix toutes taxes comprises (TTC), et les descriptions associées. Le code est organisé de manière modulaire pour assurer une lisibilité optimale et une facilité de maintenance. Ce projet met en évidence mes compétences en programmation Java et ma capacité à développer des applications fonctionnelles et conviviales.
